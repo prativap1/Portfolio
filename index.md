@@ -24,7 +24,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [The classification goal is to predict if the client will subscribe a term deposit](https://github.com/prativap1/logistic-regression/blob/main/LogProject.ipynb)
 
-<img src="images/Bank.jpg raw=true"/>
+<img src="images/Bank.jpg? raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
