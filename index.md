@@ -35,7 +35,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used logistic regression to identify if the client will subscribe the term deposit
 - Encoded categorical variable to numeric
 - Splitted train and test dataset and trained on the data
-- Implemented SMOTE to balance the two class labels
+- Implemented SMOTE to balance the two class labels and improve the performance
 
 ***
 
