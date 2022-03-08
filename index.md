@@ -32,10 +32,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Quantifiable result:** We could Classify if the client will subscribe a term deposit resulting in [**91.5%** accuracy ](https://github.com/prativap1/logistic-regression/blob/main/LogProject.ipynb)).
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+- Used logistic regression to identify if the client will subscribe the term deposit
+- Encoded categorical variable to numeric
+- Splitted train and test dataset and trained on the data
+- Implemented SMOTE to balance the two class labels
 
 ***
 
