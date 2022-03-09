@@ -48,7 +48,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective:** To predict normal and abnormal status of patient based on orthopedic parameters using KNN and NB algorithm.
 **Quantifiable result:** We could train the data with KNN algorithm  to attain a accuracy of [**85%**] (https://github.com/prativap1/KnnNB-project/blob/main/KnnNBproject_final.ipynb).
 
-- Prepard data for training
+- Prepared the data for training
 - Trained the data with KNN algorithm
 - Trained the data with Naive Bayes algorithm
 - Compared the values for best algorithm
