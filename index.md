@@ -62,7 +62,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objectives:** To predict the probabiltity of click being genuine or fraud based on given features using boosting and bagging technique.
 
-**Quantifiable result:** We got the accuracy of [**99%**]
+**Quantifiable result:** We got the accuracy of [**99%**](https://github.com/prativap1/DT-Ensemble/blob/main/DT_Ensemble.ipynb)
 
 - Applied Random forest model
 - Applied Adaboost ensemble algorithm
