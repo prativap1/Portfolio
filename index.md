@@ -52,3 +52,21 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Trained the data with KNN algorithm
 - Trained the data with Naive Bayes algorithm
 - Compared the values for best algorithm
+
+***
+[Determining if the clicks of mobile advertisement is fraud or genuine](https://github.com/prativap1/DT-Ensemble/blob/main/DT_Ensemble.ipynb)
+
+<img src="images/talkingdata.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Bagging, Boosting
+
+**Project Objectives:** To predict the probabiltity of click being genuine or fraud based on given features using boosting and bagging technique.
+
+**Quantifiable result:** We got the accuracy of [**99%**]
+
+- Applied Random forest model
+- Applied Adaboost ensemble algorithm
+- Applied bagging classifier 
+- Apllied gradient boostclassifier model
+- Calculated the accuracy of all the models
+
