@@ -39,17 +39,16 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
+[The classification goal is to predict if patient has paget's disease or not based on the orthopedic parameters](https://github.com/prativap1/KnnNB-project/blob/main/KnnNBproject_final.ipynb)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/pagets.jpg?raw=true"/>
 
-**Skills used:** Python, Keras, Tensorflow
+**Skills used:** Python, KNN, NB
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:** To predict normal and abnormal status of patient based on orthopedic parameters using KNN and NB algorithm.
+**Quantifiable result:** We could train the data with KNN algorithm  to attain a accuracy of [**85%**] (https://github.com/prativap1/KnnNB-project/blob/main/KnnNBproject_final.ipynb).
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
-
-- Added multiple convolution and pooling layers
-- Training model on basis of given data
-- Fitting the CNN to see if the provided image is dog or cat
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+- Prepard data for training
+- Trained the data with KNN algorithm
+- Trained the data with Naive Bayes algorithm
+- Compared the values for best algorithm
